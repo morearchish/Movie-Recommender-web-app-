@@ -1,14 +1,19 @@
-# Movie-Recommender-web-app-
+https://drive.google.com/file/d/17yHJCAq-qgPUAc1i9Im3O09OkY--jMsA/view?usp=sharing
 
-1: It's a content based recommending system 
+
+# Movie-Recommender-web-app-  
+
+
+1:It's a content based recommendation system 
 2: Movie recommendation is done using machine learning 
 3: TMDB Api is being used 
 4: Webpage is created using streamlit library of python
 
 TO OPEN IT:
-      
-      1: run all the cells of main.ipynb file in jupyter notebook
-      2: open app.py file in vs code or pycharm
+      1: download the above zip folder and extract it
+      2: extract the tmdb_5000_movies.zip in the above extracted folder
+      3: run all the cells of main.ipynb file in jupyter notebook
+      4: open app.py file in vs code or pycharm
       3: in terminal write: 
                             pip install pandas
                             pip install numpy
